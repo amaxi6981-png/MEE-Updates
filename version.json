@@ -1,8 +1,9 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://github.com/amaxi6981-png/MEE-Updates/releases/download/v1.0.2/ProfeKit1.0.1.zip",
     "changelog": [
         "Corregido error de APP_DIR.",
-        "Mejoras internas."
+        "Mejoras internas.",
+        "correccion de errores en codigo",
     ]
 }
